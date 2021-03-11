@@ -1,0 +1,38 @@
+{
+    "base": [
+        "Switch",
+        "Nolie",
+        "Fakie",
+        ""
+    ],
+    "tricks": [
+        "Ollie",
+        "Flip",
+        "Heelflip",
+        "Pop shove-it",
+        "Shove-it",
+        "Bigspin",
+        "360º",
+        "Varial-flip",
+        "Varial-heel",
+        "Impossible",
+        "Hardflip",
+        "Inward heelflip",
+        "360 Flip",
+        "Laser Flip",
+        "360 Pop shove-it",
+        "Double Flip",
+        "Double Heelflip"
+    ],
+    "trickSide": [
+        "Ollie",
+        "Flip",
+        "Heelflip",
+        "Bigspin",
+        "360º"
+    ],
+    "side": [
+        "Fs",
+        "Bs"
+    ]
+}
