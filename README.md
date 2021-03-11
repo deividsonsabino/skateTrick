@@ -3,7 +3,6 @@
 <p>Uma api bem simples com laravel, onde temos uma autenticação jwt (json web token), 
   sempre utilzei as padrões dos laravel, mas como comecei a usar Reactjs e Vuejs essa necessidade veio a tona, e aqui estamos nós</p>
 </p>
-<hr/>
 <h2>Imagens do aplicativo</h2>
 <div display="flex" >
   <img width="200" src="https://github.com/deivaotv/skateTrick/blob/main/assets/images/telaInicial.png?raw=true"/>
